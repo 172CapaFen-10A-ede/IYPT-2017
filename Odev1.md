@@ -17,4 +17,4 @@ structure/fluid interaction system carrying a cylindrical liquid
 tank.” J. Sound Vibr. 285, 517–546.
  2. Mayer H.C., Krechetnikov R. (2012) “Walking with coffee:
 Why does it spill?” Phys. Rev. E 85, 046117
- 3. kahve kabı (Pavel Ianko Alexey Budantsev, Rusya, IYPT slaytlar, 2015)
+ 3. 
