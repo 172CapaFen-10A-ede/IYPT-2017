@@ -14,7 +14,7 @@ Fizikçiler kahve içmekten hoşlanır, ancak bir fizikçi elinde içinde kahve 
 ## Kaynakçalar  
  1. Ikeda T., Murakami S. (2005) “Autoparametric resonances in a
 structure/fluid interaction system carrying a cylindrical liquid
-tank.” J. Sound Vibr. 285, 517–546, son erişim tarihi: 29/10/2017 11:41.
+tank.” J. Sound Vibr. 285, 517–546, son erişim tarihi: 29/10/2017.
  2. Mayer H.C., Krechetnikov R. (2012) “Walking with coffee:
 Why does it spill?” Phys. Rev. E 85, 046117, https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.046117, son erişim tarihi: 29/10/2017.
  3. Krechetnikov, R., "Dökülen Kahvenin Ardındaki Fizik" bilim.org, http://www.bilim.org/dokulen-kahvenin-ardindaki-fizik/ ,son erişim tarihi:29/10/2017.
