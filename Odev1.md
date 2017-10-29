@@ -16,6 +16,6 @@ Fizikçiler kahve içmekten hoşlanır, ancak bir fizikçi elindeki içinde kahv
 structure/fluid interaction system carrying a cylindrical liquid
 tank.” J. Sound Vibr. 285, 517–546, son erişim tarihi: 29/10/2017 11:41.
  2. Mayer H.C., Krechetnikov R. (2012) “Walking with coffee:
-Why does it spill?” Phys. Rev. E 85, 046117, son erişim tarihi: 29/10/2017 11:42. [https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.046117]
- 3. Krechetnikov, R., "Dökülen Kahvenin Ardındaki Fizik" bilim.org, son erişim tarihi:29/10/2017 11:40, http://www.bilim.org/dokulen-kahvenin-ardindaki-fizik/
+Why does it spill?” Phys. Rev. E 85, 046117, https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.046117, son erişim tarihi: 29/10/2017.
+ 3. Krechetnikov, R., "Dökülen Kahvenin Ardındaki Fizik" bilim.org, http://www.bilim.org/dokulen-kahvenin-ardindaki-fizik/ ,son erişim tarihi:29/10/2017.
  4. Pavel, L., Budantsev, A., "Coffe Cup",solutions.iypt.com,  http://solutions.iypt.org/uploads/2015_RU_Coffee_cup_Pavel_Ianko_Alexey_Budantsev_1441073232.pdf, son erişim tarihi: 29/10/2017.
